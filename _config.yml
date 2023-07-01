@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Myrah" # Page name
 title_separator          : "-"
-name                     : &name "Myrah Naeem"
+name                     : &name "Myrah Naeem "
 description              : &description "personal description"
-url                      : https://mudassir-awan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://myrahnaeem.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mudassir-awan/mudassir-awan.github.io"
+repository               : "myrahnaeem/myrahnaeem.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mudassir Ibrahim Awan"
+  name             : "Myrah Naeem"
   avatar           : "profile.png"
   bio              : "PhD Fellow"
   location         : "Seoul, South Korea"
