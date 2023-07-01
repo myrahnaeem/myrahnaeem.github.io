@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Myrah" # Page name
+title                    : "Myrah Naeem" # Page name
 title_separator          : "-"
 name                     : &name "Myrah Naeem "
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Myrah Naeem"
   avatar           : "profile.png"
-  bio              : "PhD Fellow"
+  bio              : "System Software Developer"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=VCllBHIAAAAJ&hl=en"
-  email            : "mudassir.awan@hotmail.com;miawan@khu.ac.kr"
+  googlescholar    : #"https://scholar.google.com/citations?user=VCllBHIAAAAJ&hl=en"
+  email            : "myrah.naeem76@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mudassir-awan"
+  linkedin         : "https://www.linkedin.com/in/myrah-naeem-679096180/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@mudassirIA"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
