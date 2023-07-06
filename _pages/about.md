@@ -35,7 +35,7 @@ redirect_from:
 </p>
 
 <p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
-  <a href="http://myrahnaeem.github.io/files/Myrah_Resume_2023.pdf">My Full CV</a>  
+  <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
 </p>
 
 
