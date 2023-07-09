@@ -49,13 +49,13 @@ redirect_from:
 
 <style>
   .left-indent {
-    text-indent: -20px; /* Adjust this value to move the text towards the left */
+    text-indent: -40px; /* Adjust this value to move the text towards the left */
   }
 </style>
 
 <h3 class="left-indent">September 2015 - January 2018</h3>
 
-  <li style="line-height: 1.2;"> Master of Science in Computer Engineering, Sejong University </li>
+  <li style="line-height: 1.2; text-indent: -40px; "> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3>January 2011 - January 2015</h3>
 
