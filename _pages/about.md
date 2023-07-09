@@ -44,7 +44,8 @@ redirect_from:
 <!-- **<u>News</u>** -->
 <h2>Academic Qualifications</h2>
 <!-- <ul style="margin-bottom: 20px; text-align: justify; font-size: 14px; "> -->
-<ul style="margin-bottom: 20px;  font-size: 14px; ">
+<!-- <ul style="margin-bottom: 20px;  font-size: 14px; "> -->
+<ul style="list-style-type: none; ">
 
   <li style="line-height: 1.5;"> Join us at <a href="https://2023.ubiquitousrobots.org/">UR-2023</a> conference,  <a href="https://www.meethawaii.com/convention-center/">Hwaaii Convention Center </a>  for our paper presnetaion on "Drone Haptics for 3DOF Force Feedback" on 26th June 2023.</li>
   <li style="line-height: 1.5;">Two papers got accepted in Korea Computer Congress <a href="https://www.kiise.or.kr/conference/kcc/2023/">[KCC-2023] </a> Confernce at Jeju Island, South Korea.</li>
