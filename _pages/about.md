@@ -46,9 +46,10 @@ redirect_from:
 <!-- <ul style="margin-bottom: 20px; text-align: justify; font-size: 14px; "> -->
 <!-- <ul style="margin-bottom: 20px;  font-size: 14px; "> -->
 <ul style="list-style-type: none; ">
+
 <h3>September 2015 - January 2018</h3>
 
-  <li  style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;"> Master of Science in Computer Engineering, Sejong University </li>
+  <li style="line-height: 1.2; padding-left: 0px;"> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3>January 2011 - January 2015</h3>
 
