@@ -20,9 +20,9 @@ redirect_from:
   Additionally, I explore the development of novel encountered type haptic devices such as haptic drones and wearable haptic devices in VR and AR applications.
 </p> -->
 
+<!-- changed by myrah 7/9 -->
 
-
-<p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
+<!-- <p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
   I'm a research assistant at <a href="http://haptics.khu.ac.kr/">Haptics and Virtual Reality Lab</a> and a MS-PHD combined student at <a href="https://www.khu.ac.kr/eng/main/index.do">Kyung Hee University</a> in South Korea. I'm advised by <a href="http://haptics.khu.ac.kr/jeon/">Professor Seokhee Jeon</a> and work on data-driven modeling and rendering of haptic properties to generate realistic haptic feedback in VR environments.
 </p>
 
@@ -32,7 +32,9 @@ redirect_from:
 
 <p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
   Additionally, I explore the development of novel encountered type haptic devices such as haptic drones and wearable haptic devices in VR and AR applications.
-</p>
+</p> -->
+
+<!-- changed by myrah 7/9 -->
 
 <p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
   <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
@@ -42,7 +44,7 @@ redirect_from:
 
 
 <!-- **<u>News</u>** -->
-<h2>News</h2>
+<h2>Academic Qualifications</h2>
 <!-- <ul style="margin-bottom: 20px; text-align: justify; font-size: 14px; "> -->
 <ul style="margin-bottom: 20px;  font-size: 14px; ">
 
