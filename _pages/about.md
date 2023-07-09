@@ -47,13 +47,19 @@ redirect_from:
 <!-- <ul style="margin-bottom: 20px;  font-size: 14px; "> -->
 <ul style="list-style-type: none; ">
 
-<h3>September 2015 - January 2018</h3>
+<style>
+  .left-aligned {
+    margin-left: 0; /* Adjust this value to move the heading towards the left */
+  }
+</style>
 
-  <li style="line-height: 1.2; text-align: left;"> Master of Science in Computer Engineering, Sejong University </li>
+<h3 class="left-aligned">September 2015 - January 2018</h3>
+
+  <li style="line-height: 1.2;"> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3>January 2011 - January 2015</h3>
 
-  <li style="line-height: 1.2; text-align: left;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
+  <li style="line-height: 1.2;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
 
 <h3>June 2007 - June 2009</h3>
 
