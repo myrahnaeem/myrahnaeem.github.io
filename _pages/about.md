@@ -49,11 +49,11 @@ redirect_from:
 
 <h3>September 2015 - January 2018</h3>
 
-  <li style="line-height: 1.2; text-indent: -20px;"> Master of Science in Computer Engineering, Sejong University </li>
+  <li style="line-height: 1.2; text-align: left;"> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3>January 2011 - January 2015</h3>
 
-  <li style="line-height: 1.2;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
+  <li style="line-height: 1.2; text-align: left;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
 
 <h3>June 2007 - June 2009</h3>
 
