@@ -48,12 +48,12 @@ redirect_from:
 <ul style="list-style-type: none; ">
 
 <style>
-  .left-aligned {
-    margin-left: 0; /* Adjust this value to move the heading towards the left */
+  .left-indent {
+    text-indent: -20px; /* Adjust this value to move the text towards the left */
   }
 </style>
 
-<h3 class="left-aligned">September 2015 - January 2018</h3>
+<h3 class="left-indent">September 2015 - January 2018</h3>
 
   <li style="line-height: 1.2;"> Master of Science in Computer Engineering, Sejong University </li>
 
