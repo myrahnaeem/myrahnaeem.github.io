@@ -36,9 +36,7 @@ redirect_from:
 
 <!-- changed by myrah 7/9 -->
 
-<p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
-  <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
-</p>
+
 
 
 
@@ -96,6 +94,11 @@ You can also find the full list of my publications [<span style="color:blue">her
     </td>
   </tr>
 </table>
+
+
+<p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
+  <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
+</p>
 
 <!-- **<u>Selected Publications</u>** -->
 <!-- <h2>Selected Publications</h2>
