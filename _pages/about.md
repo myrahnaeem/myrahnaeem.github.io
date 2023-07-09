@@ -49,7 +49,7 @@ redirect_from:
 
 <h3>September 2015 - January 2018</h3>
 
-  <li style="line-height: 1.2; padding-left: 0px;"> Master of Science in Computer Engineering, Sejong University </li>
+  <li style="line-height: 1.2; text-indent: -20px;"> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3>January 2011 - January 2015</h3>
 
