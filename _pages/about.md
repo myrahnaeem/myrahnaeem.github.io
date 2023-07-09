@@ -48,19 +48,19 @@ redirect_from:
 <ul style="list-style-type: none; ">
 <h3>September 2015 - January 2018</h3>
 
-  <li style="line-height: 1.5;"> Master of Science in Computer Engineering, Sejong University </li>
+  <li style="line-height: 1.2;"> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3>January 2011 - January 2015</h3>
 
-  <li style="line-height: 1.5;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
+  <li style="line-height: 1.2;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
 
 <h3>June 2007 - June 2009</h3>
 
-  <li style="line-height: 1.5;"> Cambridge GCE Advance Level, The Renaissance School </li>
+  <li style="line-height: 1.2;"> Cambridge GCE Advance Level, The Renaissance School </li>
 
 <h3>June 2005 - June 2007</h3>
 
-  <li style="line-height: 1.5;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
+  <li style="line-height: 1.2;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
 
   <!-- <li style="line-height: 1.5;"> Join us at <a href="https://2023.ubiquitousrobots.org/">UR-2023</a> conference,  <a href="https://www.meethawaii.com/convention-center/">Hwaaii Convention Center </a>  for our paper presnetaion on "Drone Haptics for 3DOF Force Feedback" on 26th June 2023.</li> -->
   <!-- <li style="line-height: 1.5;">Two papers got accepted in Korea Computer Congress <a href="https://www.kiise.or.kr/conference/kcc/2023/">[KCC-2023] </a> Confernce at Jeju Island, South Korea.</li> -->
