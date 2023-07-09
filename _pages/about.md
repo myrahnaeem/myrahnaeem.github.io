@@ -53,7 +53,9 @@ redirect_from:
   }
 </style>
 
-<h3 class="left-indent">September 2015 - January 2018</h3>
+
+
+<h3 style="text-indent: -40px; font-weight: lighter;">September 2015 - January 2018</h3>
 
   <li style="line-height: 1.2; text-indent: -40px; "> Master of Science in Computer Engineering, Sejong University </li>
 
