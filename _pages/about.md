@@ -42,23 +42,23 @@ redirect_from:
 
 
 <!-- **<u>News</u>** -->
-<h1>Academic Qualifications</h1>
+<h2>Academic Qualifications</h2>
 <!-- <ul style="margin-bottom: 20px; text-align: justify; font-size: 14px; "> -->
 <!-- <ul style="margin-bottom: 20px;  font-size: 14px; "> -->
 <ul style="list-style-type: none; ">
-<h2>September 2015 - January 2018</h2>
+<h3>September 2015 - January 2018</h3>
 
   <li style="line-height: 1.5;"> Master of Science in Computer Engineering, Sejong University </li>
 
-<h2>January 2011 - January 2015</h2>
+<h3>January 2011 - January 2015</h3>
 
   <li style="line-height: 1.5;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
 
-<h2>June 2007 - June 2009</h2>
+<h3>June 2007 - June 2009</h3>
 
   <li style="line-height: 1.5;"> Cambridge GCE Advance Level, The Renaissance School </li>
 
-<h2>June 2005 - June 2007</h2>
+<h3>June 2005 - June 2007</h3>
 
   <li style="line-height: 1.5;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
 
