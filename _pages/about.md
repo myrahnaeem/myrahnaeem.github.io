@@ -35,17 +35,24 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 
 
-<!-- **<u>News</u>** -->
-<h2>Academic Qualifications</h2>
-<!-- <ul style="margin-bottom: 20px; text-align: justify; font-size: 14px; "> -->
-<!-- <ul style="margin-bottom: 20px;  font-size: 14px; "> -->
 <ul style="list-style-type: none; ">
 
 <style>
   .left-indent {
     text-indent: -40px; /* Adjust this value to move the text towards the left */
+  } 
+  .header{
+    background-color:black;
+    font-size: 20px;
   }
 </style>
+
+<!-- **<u>News</u>** -->
+<h2 class="header" >Academic Qualifications</h2>
+<!-- <ul style="margin-bottom: 20px; text-align: justify; font-size: 14px; "> -->
+<!-- <ul style="margin-bottom: 20px;  font-size: 14px; "> -->
+
+
 
 <h3 class="left-indent">September 2015 - January 2018</h3>
 
