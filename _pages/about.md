@@ -68,6 +68,7 @@ redirect_from:
 <h3 class="left-indent">June 2005 - June 2007</h3>
 
   <li style="line-height: 1.2;text-indent: -40px;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
+<!-- changed by myrah 8/10 -->
 
   <!-- <li style="line-height: 1.5;"> Join us at <a href="https://2023.ubiquitousrobots.org/">UR-2023</a> conference,  <a href="https://www.meethawaii.com/convention-center/">Hwaaii Convention Center </a>  for our paper presnetaion on "Drone Haptics for 3DOF Force Feedback" on 26th June 2023.</li> -->
   <!-- <li style="line-height: 1.5;">Two papers got accepted in Korea Computer Congress <a href="https://www.kiise.or.kr/conference/kcc/2023/">[KCC-2023] </a> Confernce at Jeju Island, South Korea.</li> -->
@@ -76,7 +77,7 @@ redirect_from:
   <li style="line-height: 1.5;">One paper got accepted at <a href="https://www.icra2023.org/">ICRA-2023</a> conference titled "Model Mediated Teleoperation for Texture rendering" (Feb 2023).</li> -->
   <!-- <li style="line-height: 1.5;">One paper got accepted at <a href="https://hcikorea.org/">HCI Korea-2023</a> conference on "Haptic Texture Classification using Transformers" (Jan 2023).</li> -->
 
-
+<!-- changed by myrah 8/10 -->
 
 </ul>
 
@@ -144,7 +145,7 @@ redirect_from:
 </table> -->
 
 
-<p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
+<p style="line-height: 1.2; text-indent: -40px;>
   <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
 </p>
 
