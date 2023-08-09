@@ -105,6 +105,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
   <li style="line-height: 1.2;text-indent: -40px;"> Senior Software Developer, QuEST Global Korea</li>
 
+</ul>
 
 
 
@@ -139,6 +140,9 @@ I am a System Software Engineer with five years of experience, specializing in t
 <h3 class="left-indent">Mando ADAS Object Detection </h3>
 
   <li style="line-height: 1.2;text-indent: -40px;"> Senior Software Developer, QuEST Global Korea</li>
+
+</ul>
+
 <!-- You can also find the full list of my publications [<span style="color:blue">here</span>](https://mudassir-awan.github.io/publications/) -->
 
 <!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
