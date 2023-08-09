@@ -89,7 +89,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 
 
-<h2>Professional Experience</h2> 
+<h2 class="header" >Professional Experience</h2> 
 
 
 <ul style="list-style-type: none; ">
@@ -121,7 +121,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 
 
-<h2>Projects</h2> 
+<h2 class="header" >Projects</h2> 
 
 
 <ul style="list-style-type: none; ">
