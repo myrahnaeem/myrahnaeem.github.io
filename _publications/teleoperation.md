@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Model-Mediated Teleoperation for Remote Haptic Texture Sharing: Initial Study of Online Texture Modeling and Rendering"
 collection: publications
 permalink: /publications/teleoperation
@@ -19,4 +19,4 @@ Benefits of Model-Mediated Teleoperation for Haptic Texture Transmission: Given 
 
 Proof-of-Concept Implementation and Evaluation: To demonstrate the potential of our approach, we have implemented and evaluated an initial proof-of-concept system. The system supports single and homogeneous surfaces, and the results showcase promising outcomes in terms of the successful transmission and perception of haptic texture.
 
-[Download paper here](http://mudassir-awan.github.io/files/MMT.pdf)
+[Download paper here](http://mudassir-awan.github.io/files/MMT.pdf) -->
