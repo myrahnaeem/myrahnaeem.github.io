@@ -40,7 +40,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 <style>
   .left-indent {
     text-indent: -40px; /* Adjust this value to move the text towards the left */
-    font-weight: 300; 
+    font-weight: 500; 
   } 
   .header{
     /* background-color:black;
