@@ -22,7 +22,7 @@ redirect_from:
 
 <!-- changed by myrah 7/9 -->
 
-<p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
+<p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px;  text-indent: -40px; ">
  
 "I am a System Software Engineer with five years of experience, specializing in the development of  system applications, particularly focusing on camera technologies. My expertise lies in seamlessly integrating software with hardware, resulting in optimized performance. If you're seeking innovative solutions at the intersection of embedded systems, system applications, and cameras, let's collaborate to push the boundaries of innovation in the world of system software."
 
