@@ -55,19 +55,19 @@ redirect_from:
 
 <h3 class="left-indent">September 2015 - January 2018</h3>
 
-  <li style="line-height: 1.2; text-indent: -40px; "> Master of Science in Computer Engineering, Sejong University </li>
+  <li style="line-height: 1.2; text-indent: -40px; font-family: Arial, sans-serif;"> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3 class="left-indent">January 2011 - January 2015</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
+  <li style="line-height: 1.2;text-indent: -40px; font-family: Arial, sans-serif;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
 
 <h3 class="left-indent">June 2007 - June 2009</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Cambridge GCE Advance Level, The Renaissance School </li>
+  <li style="line-height: 1.2;text-indent: -40px; font-family: Arial, sans-serif;"> Cambridge GCE Advance Level, The Renaissance School </li>
 
 <h3 class="left-indent">June 2005 - June 2007</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
+  <li style="line-height: 1.2;text-indent: -40px; font-family: Arial, sans-serif;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
 <!-- changed by myrah 8/10 -->
 
   <!-- <li style="line-height: 1.5;"> Join us at <a href="https://2023.ubiquitousrobots.org/">UR-2023</a> conference,  <a href="https://www.meethawaii.com/convention-center/">Hwaaii Convention Center </a>  for our paper presnetaion on "Drone Haptics for 3DOF Force Feedback" on 26th June 2023.</li> -->
@@ -97,19 +97,19 @@ redirect_from:
 
 <h3 class="left-indent">September 2015 - February 2018</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
+  <li style="line-height: 1.2;text-indent: -40px; font-family: Arial, sans-serif;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
 
 <h3 class="left-indent">December 2017 - April 2019</h3>
 
-  <li style="line-height: 1.2; text-indent: -40px; "> Master of Science in Computer Engineering, Sejong University </li>
+  <li style="line-height: 1.2; text-indent: -40px; font-family: Arial, sans-serif; "> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3 class="left-indent">March 2020 - March 2021</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
+  <li style="line-height: 1.2;text-indent: -40px; font-family: Arial, sans-serif;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
 
 <h3 class="left-indent">June 2021 - March 2023</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Cambridge GCE Advance Level, The Renaissance School </li>
+  <li style="line-height: 1.2;text-indent: -40px; font-family: Arial, sans-serif;"> Cambridge GCE Advance Level, The Renaissance School </li>
 
 
 <!-- You can also find the full list of my publications [<span style="color:blue">here</span>](https://mudassir-awan.github.io/publications/) -->
