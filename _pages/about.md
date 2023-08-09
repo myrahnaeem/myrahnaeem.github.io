@@ -41,11 +41,11 @@ I am a System Software Engineer with five years of experience, specializing in t
   .left-indent {
     text-indent: -40px; /* Adjust this value to move the text towards the left */
   } 
-  .header{
+  /* .header{
     background-color:black;
     font-size: 20px;
     color: white;
-  }
+  } */
 </style>
 
 <!-- **<u>News</u>** -->
