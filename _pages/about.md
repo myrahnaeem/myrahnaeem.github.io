@@ -148,7 +148,7 @@ redirect_from:
   <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
 </p> -->
 
-<p style="font-size: 16px; text-align: justify; line-height: 1.2; margin-top: 15px; margin-bottom: 15px; text-indent: -40px;">
+<p style="font-size: 16px; text-align: justify; line-height: 1.2; margin-top: 25px; margin-bottom: 15px; text-indent: -40px;">
   <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>
 </p>
 <!-- **<u>Selected Publications</u>** -->
