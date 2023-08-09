@@ -82,11 +82,36 @@ redirect_from:
 
 
 
-<h2>Selected Publications</h2> 
+<h2>Professional Experience</h2> 
 
-You can also find the full list of my publications [<span style="color:blue">here</span>](https://mudassir-awan.github.io/publications/)
 
-<table style="width: 100%; border-collapse: collapse; border: 0;">
+<ul style="list-style-type: none; ">
+
+<style>
+  .left-indent {
+    text-indent: -40px; /* Adjust this value to move the text towards the left */
+  }
+</style>
+
+<h3 class="left-indent">September 2015 - January 2018</h3>
+
+  <li style="line-height: 1.2; text-indent: -40px; "> Master of Science in Computer Engineering, Sejong University </li>
+
+<h3 class="left-indent">January 2011 - January 2015</h3>
+
+  <li style="line-height: 1.2;text-indent: -40px;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
+
+<h3 class="left-indent">June 2007 - June 2009</h3>
+
+  <li style="line-height: 1.2;text-indent: -40px;"> Cambridge GCE Advance Level, The Renaissance School </li>
+
+<h3 class="left-indent">June 2005 - June 2007</h3>
+
+  <li style="line-height: 1.2;text-indent: -40px;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
+
+<!-- You can also find the full list of my publications [<span style="color:blue">here</span>](https://mudassir-awan.github.io/publications/) -->
+
+<!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 25%; text-align: center; border: none;">
       <img src="/images/mmt.png" alt="Profile Picture" width="160" height="300" style="margin-right: 10px;">
@@ -100,9 +125,9 @@ You can also find the full list of my publications [<span style="color:blue">her
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 
-<table style="width: 100%; border-collapse: collapse; border: 0;">
+<!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 25%; text-align: center; border: none;">
       <img src="/images/drone.png" alt="Profile Picture" width="160" height="300" style="margin-right: 10px;">
@@ -116,7 +141,7 @@ You can also find the full list of my publications [<span style="color:blue">her
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
