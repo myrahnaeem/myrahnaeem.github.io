@@ -44,6 +44,7 @@ I am a System Software Engineer with five years of experience, specializing in t
   .header{
     background-color:black;
     font-size: 20px;
+    color: white;
   }
 </style>
 
