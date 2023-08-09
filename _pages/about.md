@@ -97,19 +97,19 @@ redirect_from:
 
 <h3 class="left-indent">September 2015 - February 2018</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
+  <li style="line-height: 1.2;text-indent: -40px;"> Researh Assistant, Sejong University </li>
 
 <h3 class="left-indent">December 2017 - April 2019</h3>
 
-  <li style="line-height: 1.2; text-indent: -40px; "> Master of Science in Computer Engineering, Sejong University </li>
+  <li style="line-height: 1.2; text-indent: -40px; "> System Software Developer, Mediazen </li>
 
 <h3 class="left-indent">March 2020 - March 2021</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
+  <li style="line-height: 1.2;text-indent: -40px;"> Manager, Softwiz </li>
 
 <h3 class="left-indent">June 2021 - March 2023</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Cambridge GCE Advance Level, The Renaissance School </li>
+  <li style="line-height: 1.2;text-indent: -40px;"> Senior Software Developer, QuEST Global Korea</li>
 
 
 <!-- You can also find the full list of my publications [<span style="color:blue">here</span>](https://mudassir-awan.github.io/publications/) -->
