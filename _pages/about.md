@@ -44,8 +44,10 @@ I am a System Software Engineer with five years of experience, specializing in t
   .header{
     /* background-color:black;
     font-size: 20px;
-    color: white; */
-    text-decoration: underline;/* Adjust this value to move the text towards the left */
+    color: white;
+    text-decoration: underline;
+     */
+    font-weight: 900; 
 
   }
 </style>
@@ -87,7 +89,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 
 
-<h2 class="header" >Professional Experience</h2> 
+<h2>Professional Experience</h2> 
 
 
 <ul style="list-style-type: none; ">
@@ -119,7 +121,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 
 
-<h2 class="header" >Projects</h2> 
+<h2>Projects</h2> 
 
 
 <ul style="list-style-type: none; ">
