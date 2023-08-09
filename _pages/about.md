@@ -144,8 +144,7 @@ redirect_from:
   </tr>
 </table> -->
 
-
-<p style="line-height: 1.2; text-indent: -40px;>
+<p class="left-indent" style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
   <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
 </p>
 
