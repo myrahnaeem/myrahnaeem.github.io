@@ -143,11 +143,13 @@ redirect_from:
     </td>
   </tr>
 </table> -->
-<h4 class="left-indent"</h4>
-<p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
+
+<!-- <p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
+  <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
+</p> -->
+<p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px;">
   <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
 </p>
-
 <!-- **<u>Selected Publications</u>** -->
 <!-- <h2>Selected Publications</h2>
 
