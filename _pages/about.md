@@ -121,9 +121,13 @@ I am a System Software Engineer with five years of experience, specializing in t
 </style>
 
 
-<h3 class="left-indent">Smart Agent LG</h3>
+<h3 class="left-indent">2.5D Pose Invariant Face Recognition Using Stereo Camera</h3>
 
   <li style="line-height: 1.2;text-indent: -40px;"> Researh Assistant, Sejong University </li>
+
+<h3 class="left-indent">Smart Agent LG</h3>
+
+  <li style="line-height: 1.2; text-indent: -40px; "> System Software Developer, Mediazen </li>
 
 <h3 class="left-indent">MZ_VoiceHandler_Hybrid (MOBIS)</h3>
 
@@ -131,15 +135,15 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 <h3 class="left-indent">AVN5Wide_India_svn (LGE)</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Manager, Softwiz </li>
+  <li style="line-height: 1.2;text-indent: -40px;"> System Software Developer, Mediazen </li>
 
 <h3 class="left-indent">Forex Trading CRM Software</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Senior Software Developer, QuEST Global Korea</li>
+  <li style="line-height: 1.2;text-indent: -40px;"> Manager, Softwiz </li>
 
 <h3 class="left-indent">Mando ADAS Object Detection </h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Senior Software Developer, QuEST Global Korea</li>
+  <li style="line-height: 1.2;text-indent: -40px;"> Senior Software Developer, QuEST Global Korea </li>
 
 
 
