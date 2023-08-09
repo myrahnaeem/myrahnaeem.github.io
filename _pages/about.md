@@ -153,6 +153,8 @@ redirect_from:
 <p style="font-size: 16px; text-align: justify; line-height: 1.2; margin-top: 25px; margin-bottom: 15px; text-indent: -40px;">
   <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>
 </p>
+
+
 <!-- **<u>Selected Publications</u>** -->
 <!-- <h2>Selected Publications</h2>
 
@@ -212,4 +214,3 @@ You can also find the full list of my publications [<span style="color:blue">her
   </div>
 </div>
 
- -->
