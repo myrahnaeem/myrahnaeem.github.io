@@ -35,7 +35,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 
 
-<ul style="list-style-type: none; ">
+
 
 <style>
   .left-indent {
@@ -51,7 +51,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 <h2 class="header" >Academic Qualifications</h2>
 <!-- <ul style="margin-bottom: 20px; text-align: justify; font-size: 14px; "> -->
 <!-- <ul style="margin-bottom: 20px;  font-size: 14px; "> -->
-
+<ul style="list-style-type: none; ">
 
 
 <h3 class="left-indent">September 2015 - January 2018</h3>
