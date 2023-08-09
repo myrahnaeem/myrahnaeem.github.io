@@ -141,7 +141,6 @@ I am a System Software Engineer with five years of experience, specializing in t
 
   <li style="line-height: 1.2;text-indent: -40px;"> Senior Software Developer, QuEST Global Korea</li>
 
-</ul>
 
 <!-- You can also find the full list of my publications [<span style="color:blue">here</span>](https://mudassir-awan.github.io/publications/) -->
 
