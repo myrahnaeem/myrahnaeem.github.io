@@ -49,6 +49,8 @@ I am a System Software Engineer with five years of experience, specializing in t
     color: white;
     text-decoration: underline;
      */
+  }
+  
   .textstyle{
     font-size: 18px;
     line-height: 1.2;
