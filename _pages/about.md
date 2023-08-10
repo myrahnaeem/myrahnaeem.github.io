@@ -41,11 +41,8 @@ I am a System Software Engineer with five years of experience, specializing in t
   .left-indent {
     text-indent: -40px; /* Adjust this value to move the text towards the left */
     font-weight: 600; 
-    
+  
   } 
-  </style>
-
-  <style>
   .header{
     /* background-color:black;
     font-size: 20px;
@@ -53,9 +50,6 @@ I am a System Software Engineer with five years of experience, specializing in t
     text-decoration: underline;
      */
   }
-  </style>
-  
-  <style>
   .textstyle{
     font-size: 18px;
     line-height: 1.2;
@@ -72,19 +66,19 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 <h3 class="left-indent">September 2015 - January 2018</h3>
 
- <li class="textstyle;"> Master of Science in Computer Engineering, Sejong University </li>
+ <li class="textstyle"> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3 class="left-indent">January 2011 - January 2015</h3>
 
-  <li class="textstyle;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
+  <li class="textstyle"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
 
 <h3 class="left-indent">June 2007 - June 2009</h3>
 
-  <li class="textstyle;"> Cambridge GCE Advance Level, The Renaissance School </li>
+  <li class="textstyle"> Cambridge GCE Advance Level, The Renaissance School </li>
 
 <h3 class="left-indent">June 2005 - June 2007</h3>
 
-  <li class="textstyle;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
+  <li class="textstyle"> Cambridge GCE Ordinary Level, The Cathedral School </li>
 <!-- changed by myrah 8/10 -->
 
   <!-- <li style="line-height: 1.5;"> Join us at <a href="https://2023.ubiquitousrobots.org/">UR-2023</a> conference,  <a href="https://www.meethawaii.com/convention-center/">Hwaaii Convention Center </a>  for our paper presnetaion on "Drone Haptics for 3DOF Force Feedback" on 26th June 2023.</li> -->
