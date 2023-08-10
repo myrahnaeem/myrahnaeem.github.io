@@ -43,6 +43,9 @@ I am a System Software Engineer with five years of experience, specializing in t
     font-weight: 600; 
     
   } 
+  </style>
+
+  <style>
   .header{
     /* background-color:black;
     font-size: 20px;
@@ -50,7 +53,9 @@ I am a System Software Engineer with five years of experience, specializing in t
     text-decoration: underline;
      */
   }
+  </style>
   
+  <style>
   .textstyle{
     font-size: 18px;
     line-height: 1.2;
