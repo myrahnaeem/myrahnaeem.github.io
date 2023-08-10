@@ -41,7 +41,7 @@ I am a System Software Engineer with five years of experience, specializing in t
   .left-indent {
     text-indent: -40px; /* Adjust this value to move the text towards the left */
     font-weight: 600; 
-    font-size: 18px;
+    
   } 
   .header{
     /* background-color:black;
@@ -63,7 +63,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 <h3 class="left-indent">September 2015 - January 2018</h3>
 
-  <li style="line-height: 1.2; text-indent: -40px; "> Master of Science in Computer Engineering, Sejong University </li>
+  <li style="line-height: 1.2; text-indent: -40px; font-size: 18px; "> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3 class="left-indent">January 2011 - January 2015</h3>
 
