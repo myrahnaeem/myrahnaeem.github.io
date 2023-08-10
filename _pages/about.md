@@ -22,7 +22,7 @@ redirect_from:
 
 <!-- changed by myrah 7/9 -->
 
-<p style="font-size: 18px; text-align: justify; line-height: 1.5; margin-bottom: 15px; "> 
+<p style="font-size: 16px; text-align: justify; line-height: 1.5; margin-bottom: 15px; "> 
 I am a System Software Engineer with five years of experience, specializing in the development of  system applications, particularly focusing on camera technologies. My expertise lies in seamlessly integrating software with hardware, resulting in optimized performance. If you're seeking innovative solutions at the intersection of embedded systems, system applications, and cameras, let's collaborate to push the boundaries of innovation in the world of system software.
 
 </p>
@@ -64,19 +64,19 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 <h3 class="left-indent">September 2015 - January 2018</h3>
 
-  <li class="line-height: 1.2;text-indent: -40px;font-size: 18px;"> Master of Science in Computer Engineering, Sejong University </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3 class="left-indent">January 2011 - January 2015</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;font-size: 18px;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Bachelor of Science in Telecommunication Engineering, COMSATS University </li>
 
 <h3 class="left-indent">June 2007 - June 2009</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;font-size: 18px;"> Cambridge GCE Advance Level, The Renaissance School </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Cambridge GCE Advance Level, The Renaissance School </li>
 
 <h3 class="left-indent">June 2005 - June 2007</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;font-size: 18px;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Cambridge GCE Ordinary Level, The Cathedral School </li>
 <!-- changed by myrah 8/10 -->
 
   <!-- <li style="line-height: 1.5;"> Join us at <a href="https://2023.ubiquitousrobots.org/">UR-2023</a> conference,  <a href="https://www.meethawaii.com/convention-center/">Hwaaii Convention Center </a>  for our paper presnetaion on "Drone Haptics for 3DOF Force Feedback" on 26th June 2023.</li> -->
@@ -106,19 +106,19 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 <h3 class="left-indent">September 2015 - February 2018</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Researh Assistant, Sejong University </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Researh Assistant, Sejong University </li>
 
 <h3 class="left-indent">December 2017 - April 2019</h3>
 
-  <li style="line-height: 1.2; text-indent: -40px; "> System Software Developer, Mediazen </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px; "> System Software Developer, Mediazen </li>
 
 <h3 class="left-indent">March 2020 - March 2021</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Manager, Softwiz </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Manager, Softwiz </li>
 
 <h3 class="left-indent">June 2021 - March 2023</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Senior Software Developer, QuEST Global Korea</li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Senior Software Developer, QuEST Global Korea</li>
 
 </ul>
 
@@ -138,27 +138,27 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 <h3 class="left-indent">Smart Agent LG</h3>
 
-  <li style="line-height: 1.2; text-indent: -40px; "> System Software Developer, Mediazen </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px; "> System Software Developer, Mediazen </li>
 
 <h3 class="left-indent">MZ_VoiceHandler_Hybrid (MOBIS)</h3>
 
-  <li style="line-height: 1.2; text-indent: -40px; "> System Software Developer, Mediazen </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px; "> System Software Developer, Mediazen </li>
 
 <h3 class="left-indent">AVN5Wide_India_svn (LGE)</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> System Software Developer, Mediazen </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> System Software Developer, Mediazen </li>
 
 <h3 class="left-indent">Forex Trading CRM Software</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Manager, Softwiz </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Manager, Softwiz </li>
 
 <h3 class="left-indent">Mando ADAS Object Detection </h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Senior Software Developer, QuEST Global Korea </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Senior Software Developer, QuEST Global Korea </li>
 
 <h3 class="left-indent">2.5D Pose Invariant Face Recognition Using Stereo Camera</h3>
 
-  <li style="line-height: 1.2;text-indent: -40px;"> Researh Assistant, Sejong University </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Researh Assistant, Sejong University </li>
 
 
 
