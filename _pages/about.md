@@ -52,7 +52,7 @@ I am a System Software Engineer with five years of experience, specializing in t
   .textstyle{
     font-size: 18px;
     line-height: 1.2;
-    text-indent: -40px;
+    /* text-indent: -40px; */
   }
 </style>
 
@@ -65,7 +65,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 <h3 class="left-indent">September 2015 - January 2018</h3>
 
-  <li class="textstyle;"> Master of Science in Computer Engineering, Sejong University </li>
+ <li class="textstyle;"> Master of Science in Computer Engineering, Sejong University </li>
 
 <h3 class="left-indent">January 2011 - January 2015</h3>
 
