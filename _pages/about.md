@@ -138,7 +138,7 @@ I am a System Software Engineer with five years of experience, specializing in t
   width: 80px;
   height: 80px;
   padding: 5px;
-  border: 1px solid blue;  
+  /* border: 1px solid blue;   */
   background-color: rgb(192,192,192); 
 }
 </style>
