@@ -131,7 +131,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 <style>
   .left-indent {
-    margin-left: 40px; /* Adjust this value to move the text towards the left */
+    margin-left: -40px; /* Adjust this value to move the text towards the left */
   }
   .a {
   display: inline;
