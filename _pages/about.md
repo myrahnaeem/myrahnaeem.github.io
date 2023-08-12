@@ -136,7 +136,7 @@ I am a System Software Engineer with five years of experience, specializing in t
   .a {
   line-height: 1.2;
   text-indent: -40px;
-  font-size: 14px;
+  font-size: 10px;
   display: inline; /* the default for span */
   width: 80px;
   height: 80px;
