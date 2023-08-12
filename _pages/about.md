@@ -134,9 +134,6 @@ I am a System Software Engineer with five years of experience, specializing in t
     text-indent: -40px; /* Adjust this value to move the text towards the left */
   }
   .a {
-  line-height: 1.2;
-  text-indent: -40px;
-  font-size: 10px;
   display: inline; /* the default for span */
   width: 80px;
   height: 80px;
@@ -149,7 +146,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 <h3 class="left-indent">Smart Agent LG</h3>
 
   <li style="line-height: 1.2;text-indent: -40px;font-size: 16px; "> System Software Developer, Mediazen </li>
-  <li class="a"> C++ </li>
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px; " class="a"> C++ </li>
 
 <h3 class="left-indent">MZ_VoiceHandler_Hybrid (MOBIS)</h3>
 
