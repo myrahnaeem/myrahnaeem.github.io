@@ -127,7 +127,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 <h2 class="header" >Projects</h2> 
 
 
-<ul style="list-style-type: none; margin-left: 40px;">
+<ul style="list-style-type: none; ">
 
 <style>
   .left-indent {
