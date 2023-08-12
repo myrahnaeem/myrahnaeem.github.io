@@ -134,9 +134,12 @@ I am a System Software Engineer with five years of experience, specializing in t
     text-indent: -40px; /* Adjust this value to move the text towards the left */
   }
   .a {
+  line-height: 1.2;
+  text-indent: -40px;
+  font-size: 14px;
   display: inline; /* the default for span */
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   padding: 5px;
   border: 1px solid blue;  
   background-color: rgb(192,192,192); 
