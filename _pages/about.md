@@ -133,7 +133,7 @@ I am a System Software Engineer with five years of experience, specializing in t
   .left-indent {
     text-indent: -40px; /* Adjust this value to move the text towards the left */
   }
-  .a {
+  .word1{
   display: inline;
   width: 80px;
   height: 80px;
@@ -142,13 +142,21 @@ I am a System Software Engineer with five years of experience, specializing in t
   /* border: 1px solid blue;   */
   background-color: rgb(192,192,192); 
 }
+  .word2 {
+  display: inline;
+  width: 80px;
+  height: 80px;
+  padding: 5px;
+  border-radius: 30px;
+  background-color: rgb(192,192,192); 
+}
 </style>
 
 <h3 class="left-indent">Smart Agent LG</h3>
 
   <li style="line-height: 1.2;text-indent: -40px; font-size: 16px; "> System Software Developer, Mediazen  </li>
-  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px;" class="a">C++</p>
-  <!-- <li style="line-height: 1.2;text-indent: -40px; font-size: 12px; " class="a"> C++ </li> -->
+  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px;" class="word1">C++</p>
+  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px;" class="word2">QT</p>
 
 <h3 class="left-indent">MZ_VoiceHandler_Hybrid (MOBIS)</h3>
 
