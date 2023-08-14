@@ -139,7 +139,7 @@ I am a System Software Engineer with five years of experience, specializing in t
   height: 80px;
   padding: 5px;
   border-radius: 30px;
-  margin-right: 20px;
+  margin-right: -20px;
   /* border: 1px solid blue;   */
   background-color: rgb(192,192,192); 
 }
