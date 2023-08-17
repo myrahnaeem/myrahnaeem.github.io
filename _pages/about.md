@@ -156,7 +156,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 <h3 class="left-indent">Smart Agent LG</h3>
 
   <li style="line-height: 1.2;text-indent: -40px; font-size: 16px; "> System Software Developer, Mediazen  </li>
-  <p style="line-height: 1.2;margin-left: 40px; font-size: 12px;" class="word1">C++</p>
+  <p style="line-height: 1.2;margin-left: --40px; font-size: 12px;" class="word1">C++</p>
   <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">QT</p>
 
 <h3 class="left-indent">MZ_VoiceHandler_Hybrid (MOBIS)</h3>
