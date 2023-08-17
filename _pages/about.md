@@ -27,7 +27,9 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 </p>
 
-
+<p style="font-size: 16px; text-align: justify; line-height: 1.2; margin-top: 25px; margin-bottom: 15px; text-indent: -40px;">
+  <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>
+</p>
 <!-- changed by myrah 7/9 -->
 
 
@@ -233,9 +235,7 @@ I am a System Software Engineer with five years of experience, specializing in t
   <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
 </p> -->
 
-<p style="font-size: 16px; text-align: justify; line-height: 1.2; margin-top: 25px; margin-bottom: 15px; text-indent: -40px;">
-  <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>
-</p>
+
 
 
 
