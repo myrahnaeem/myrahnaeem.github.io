@@ -122,6 +122,10 @@ I am a System Software Engineer with five years of experience, specializing in t
 
   <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Senior Software Developer, QuEST Global Korea</li>
 
+<h3 class="left-indent">November 2023 - February 2025</h3>
+
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Researcher, Kyung Hee University International Campus</li>
+
 </ul>
 
 
@@ -189,6 +193,15 @@ I am a System Software Engineer with five years of experience, specializing in t
   <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">TI-SDK</p>
   <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">OpenVX</p>
   <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">MATLAB</p>
+
+<h3 class="left-indent"> Text Driven Generative Framework </h3>
+
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Researcher, Kyung Hee University International Campus </li>
+  <p style="line-height: 1.2;margin-left: -40px;  font-size: 12px;" class="word1">C++</p>
+  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px; margin-right = 10px" class="word2">QT</p>
+  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">QT</p>
+  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">C++</p>
+  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">Chai 3D</p>
 
 <h3 class="left-indent">2.5D Pose Invariant Face Recognition Using Stereo Camera</h3>
 
