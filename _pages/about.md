@@ -122,6 +122,10 @@ I am a System Software Engineer with five years of experience, specializing in t
 
   <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Senior Software Developer, QuEST Global Korea</li>
 
+<h3 class="left-indent">November 2023 - February 2025</h3>
+
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Researcher, Kyung Hee University International Campus</li>
+
 </ul>
 
 
@@ -190,12 +194,43 @@ I am a System Software Engineer with five years of experience, specializing in t
   <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">OpenVX</p>
   <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">MATLAB</p>
 
+<h3 class="left-indent"> Text Driven Generative Framework </h3>
+
+  <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Researcher, Kyung Hee University International Campus </li>
+  <p style="line-height: 1.2;margin-left: -40px;  font-size: 12px;" class="word1">C++</p>
+  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px; margin-right = 10px" class="word2">QT</p>
+  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">QT</p>
+  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">C++</p>
+  <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">Chai 3D</p>
+
 <h3 class="left-indent">2.5D Pose Invariant Face Recognition Using Stereo Camera</h3>
 
   <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Researh Assistant, Sejong University </li>
   <p style="line-height: 1.2;margin-left: -40px;  font-size: 12px;" class="word1">C++</p>
   <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px; margin-right = 10px" class="word2">MATLAB</p>
   <p style="line-height: 1.2;text-indent: -40px; font-size: 12px; margin-left: 10px;" class="word2">OpenCV</p>
+
+</ul>
+
+<h2 class="header">Publications</h2>
+
+<div style="border-left: 4px solid #4a90e2; padding: 12px 20px; margin: 20px 0; background: #f8f9fb; border-radius: 8px;">
+    <h3 style="margin:0; font-size: 18px;">
+        Text-Driven Generative Framework for Multimodal Visual and Haptic Texture Synthesis
+    </h3>
+
+    <p style="font-size: 14px; line-height: 1.4; text-align: justify; margin-top: 8px;">
+        Proposed a text-to-haptic generative pipeline integrating Stable Diffusion for visual 
+        texture creation, AttributeNet for perceptual attribute prediction, and interpolation-based 
+        vibrotactile synthesis. Demonstrated improved prediction accuracy and validated the system 
+        through a user study.
+    </p>
+
+    <a href="https://myrahnaeem.github.io/files/Text_Driven_Generative_Framework_for_Multimodal_Visual_and_Haptic.pdf" target="_blank" style="color:#4a90e2; font-weight:bold;">
+    Download Paper
+    </a>
+</div>
+
 
 <!-- You can also find the full list of my publications [<span style="color:blue">here</span>](https://mudassir-awan.github.io/publications/) -->
 
