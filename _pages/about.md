@@ -212,25 +212,8 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 </ul>
 
+
 <!-- <h2 class="header">Publications</h2>
-
-<div style="border-left: 4px solid #4a90e2; padding: 12px 20px; margin: 20px 0; background: #f8f9fb; border-radius: 8px;">
-    <h3 style="margin:0; font-size: 18px;">
-        Text-Driven Generative Framework for Multimodal Visual and Haptic Texture Synthesis
-    </h3>
-
-    <p style="font-size: 14px; line-height: 1.4; text-align: justify; margin-top: 8px;">
-        Proposed a text-to-haptic generative pipeline integrating Stable Diffusion for visual 
-        texture creation, AttributeNet for perceptual attribute prediction, and interpolation-based 
-        vibrotactile synthesis. Demonstrated improved prediction accuracy and validated the system 
-        through a user study.
-    </p>
-
-    <a href="https://myrahnaeem.github.io/files/Text_Driven_Generative_Framework_for_Multimodal_Visual_and_Haptic.pdf" target="_blank" style="color:#4a90e2; font-weight:bold;">
-    Download Paper
-    </a>
-</div> -->
-<h2 class="header">Publications</h2>
 
 <table style="width: 100%; border-collapse: collapse; border: 0; margin-top: 10px;">
   <tr>
@@ -252,43 +235,42 @@ I am a System Software Engineer with five years of experience, specializing in t
       </p>
     </td>
   </tr>
-</table>
-
-
-
-<!-- You can also find the full list of my publications [<span style="color:blue">here</span>](https://mudassir-awan.github.io/publications/) -->
-
-<!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
-  <tr>
-    <td style="width: 25%; text-align: center; border: none;">
-      <img src="/images/mmt.png" alt="Profile Picture" width="160" height="300" style="margin-right: 10px;">
-    </td>
-    <td style="width: 75%; text-align: justify; border: none;">
-      <h3><a href="https://mudassir-awan.github.io/publications/teleoperation">Model-Mediated Teleoperation for Remote Haptic Texture Sharing: Initial Study of Online Texture Modeling and Rendering</a>(ICRA)</h3>
-      <p>
-        This paper presents the first model-mediated teleoperation (MMT) framework capable of sharing surface haptic texture. It enables the collection of physical signals on the follower side, which are used to build and update a local texture simulation model on the leader side. This approach provides real-time, stable, and accurate feedback of texture. The paper includes an implemented proof-of-concept system that showcases the potential of this approach for remote texture sharing
-        
-        <a href="http://mudassir-awan.github.io/files/MMT.pdf">Download paper here</a>
-      </p>
-    </td>
-  </tr>
 </table> -->
 
-<!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
-  <tr>
-    <td style="width: 25%; text-align: center; border: none;">
-      <img src="/images/drone.png" alt="Profile Picture" width="160" height="300" style="margin-right: 10px;">
-    </td>
-    <td style="width: 75%; text-align: justify; border: none;">
-      <h3><a href="https://mudassir-awan.github.io/publications/drone">DroneHaptics - Encountered Type Haptic Interface Using Dome-Shaped Drone for 3-DoF Force Feedback</a>(UR)</h3>
-      <p>
-        This paper introduces a dome-shaped haptic drone with a hemispherical cage made of aluminum mesh. The cage enables controllable 3D force feedback, improving usability and user safety. Experimental measurements and mathematical formulations establish an accurate force-thrust relationship. The system's force rendering accuracy was evaluated, achieving a low error rate of less than 8.6%, ensuring perceptually accurate force feedback.
-        
-        <a href="http://mudassir-awan.github.io/files/DroneHaptics.pdf">Download paper here</a>
-      </p>
-    </td>
-  </tr>
-</table> -->
+
+<h2 class="header" style="margin-top: 40px;">Publications</h2>
+
+<div style="
+    padding: 20px;
+    border-left: 4px solid #0077b6;
+    background: #f4f8fb;
+    border-radius: 8px;
+    margin-bottom: 30px;
+">
+    <h2 style="
+        font-size: 22px;
+        font-weight: 700;
+        color: #00324e;
+        margin-bottom: 12px;
+        line-height: 1.3;
+    ">
+        <a href="/publications/text-driven" style="text-decoration:none; color:#00324e;">
+            Text-Driven Generative Framework for Multimodal Visual and Haptic Texture Synthesis
+        </a>
+    </h2>
+
+    <p style="font-size: 15px; color:#333; line-height: 1.5; text-align: justify;">
+        A novel text-to-haptic generative framework combining Stable Diffusion for visual texture 
+        generation, AttributeNet for perceptual attribute prediction, and interpolation-based 
+        vibrotactile signal synthesis. The framework improves haptic attribute prediction accuracy 
+        and is validated through a user study.
+    </p>
+
+    <a href="https://myrahnaeem.github.io/files/Text_Driven_Generative_Framework_for_Multimodal_Visual_and_Haptic.pdf"
+       style="font-size: 15px; font-weight: bold; color:#0077b6;">
+        📄 Download Paper
+    </a>
+</div>
 
 
 
