@@ -212,7 +212,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 </ul>
 
-<h2 class="header">Publications</h2>
+<!-- <h2 class="header">Publications</h2>
 
 <div style="border-left: 4px solid #4a90e2; padding: 12px 20px; margin: 20px 0; background: #f8f9fb; border-radius: 8px;">
     <h3 style="margin:0; font-size: 18px;">
@@ -229,46 +229,39 @@ I am a System Software Engineer with five years of experience, specializing in t
     <a href="https://myrahnaeem.github.io/files/Text_Driven_Generative_Framework_for_Multimodal_Visual_and_Haptic.pdf" target="_blank" style="color:#4a90e2; font-weight:bold;">
     Download Paper
     </a>
-</div>
+</div> -->
 
 
-<!-- You can also find the full list of my publications [<span style="color:blue">here</span>](https://mudassir-awan.github.io/publications/) -->
+<h2 class="header">Publications</h2>
 
-<!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
+<table style="width: 100%; border-collapse: collapse; border: 0; margin-top: 10px;">
   <tr>
     <td style="width: 25%; text-align: center; border: none;">
-      <img src="/images/mmt.png" alt="Profile Picture" width="160" height="300" style="margin-right: 10px;">
+      <!-- Optional thumbnail image for the paper -->
+      <img src="/images/text-driven.png" alt="Text-Driven Texture Paper" width="160" height="300" style="margin-right: 10px;">
     </td>
+
     <td style="width: 75%; text-align: justify; border: none;">
-      <h3><a href="https://mudassir-awan.github.io/publications/teleoperation">Model-Mediated Teleoperation for Remote Haptic Texture Sharing: Initial Study of Online Texture Modeling and Rendering</a>(ICRA)</h3>
-      <p>
-        This paper presents the first model-mediated teleoperation (MMT) framework capable of sharing surface haptic texture. It enables the collection of physical signals on the follower side, which are used to build and update a local texture simulation model on the leader side. This approach provides real-time, stable, and accurate feedback of texture. The paper includes an implemented proof-of-concept system that showcases the potential of this approach for remote texture sharing
-        
-        <a href="http://mudassir-awan.github.io/files/MMT.pdf">Download paper here</a>
+      <h3>
+        <a href="/publications/text-driven">
+          Text-Driven Generative Framework for Multimodal Visual and Haptic Texture Synthesis
+        </a>
+      </h3>
+      <p style="font-size: 14px; line-height: 1.4;">
+        A text-to-haptic generative framework that combines Stable Diffusion for visual texture
+        generation, AttributeNet for perceptual attribute prediction (e.g., roughness, softness),
+        and interpolation-based vibrotactile signal synthesis. The method improves haptic attribute
+        prediction accuracy and is validated through a user study.
+        <br><br>
+        <a href="https://myrahnaeem.github.io/files/Text_Driven_Generative_Framework_for_Multimodal_Visual_and_Haptic.pdf">
+          Download paper here
+        </a>
       </p>
     </td>
   </tr>
-</table> -->
+</table>
 
-<!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
-  <tr>
-    <td style="width: 25%; text-align: center; border: none;">
-      <img src="/images/drone.png" alt="Profile Picture" width="160" height="300" style="margin-right: 10px;">
-    </td>
-    <td style="width: 75%; text-align: justify; border: none;">
-      <h3><a href="https://mudassir-awan.github.io/publications/drone">DroneHaptics - Encountered Type Haptic Interface Using Dome-Shaped Drone for 3-DoF Force Feedback</a>(UR)</h3>
-      <p>
-        This paper introduces a dome-shaped haptic drone with a hemispherical cage made of aluminum mesh. The cage enables controllable 3D force feedback, improving usability and user safety. Experimental measurements and mathematical formulations establish an accurate force-thrust relationship. The system's force rendering accuracy was evaluated, achieving a low error rate of less than 8.6%, ensuring perceptually accurate force feedback.
-        
-        <a href="http://mudassir-awan.github.io/files/DroneHaptics.pdf">Download paper here</a>
-      </p>
-    </td>
-  </tr>
-</table> -->
 
-<!-- <p style="font-size: 14px; text-align: justify; line-height: 1.5; margin-bottom: 15px; padding-left: 40px; padding-right: 40px;">
-  <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>  
-</p> -->
 
 
 
