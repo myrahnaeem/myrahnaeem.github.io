@@ -10,7 +10,7 @@ permalink: /publications/preprocessing-2_5d/
 </p>
 
 <p style="font-size: 15px; line-height: 1.6; margin-bottom: 4px;">
-<strong>Authors:</strong> Myrah Naeem, (add co-authors here if needed)
+<strong>Authors:</strong> Myrah Naeem
 </p>
 
 <p style="font-size: 15px; line-height: 1.6; margin-bottom: 20px;">
