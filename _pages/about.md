@@ -254,7 +254,7 @@ I am a System Software Engineer with five years of experience, specializing in t
         margin-bottom: 12px;
         line-height: 1.3;
     ">
-        <a href="/publications/text-driven/" style="text-decoration:none; color:#00324e;">
+        <a href="/publications/text-driven" style="text-decoration:none; color:#00324e;">
             Text-Driven Generative Framework for Multimodal Visual and Haptic Texture Synthesis
         </a>
     </h2>
