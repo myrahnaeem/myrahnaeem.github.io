@@ -5,7 +5,7 @@ permalink: /publications/preprocessing-2_5d/
 ---
 
 <p style="text-align:center; margin-bottom: 30px;">
-  <img src="/images/preprocessing-2_5d.png" alt="Preprocessing of 2.5D Facial Images" 
+  <img src="/images/2_5d_pose.png" alt="Preprocessing of 2.5D Facial Images" 
        style="max-width: 100%; border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.18);">
 </p>
 
