@@ -4,14 +4,10 @@ title: "Text-Driven Generative Framework for Multimodal Visual and Haptic Textur
 permalink: /publications/text-driven/
 ---
 
-<p style="text-align:center; margin-bottom: 25px;">
+<p style="text-align:center; margin-bottom: 30px;">
   <img src="/images/text-driven.png" alt="Text-Driven Generative Framework Overview" 
-       style="max-width: 90%; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);">
+       style="max-width: 100%; border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.18);">
 </p>
-
-<h1 style="font-size: 26px; color:#00324e; font-weight:700; margin-bottom:20px; text-align:center;">
-    Text-Driven Generative Framework for Multimodal Visual and Haptic Texture Synthesis
-</h1>
 
 <p style="font-size: 15px; line-height: 1.6; margin-bottom: 4px;">
 <strong>Authors:</strong> Myrah Naeem, Mudassir Ibrahim Awan, Seokhee Jeon
