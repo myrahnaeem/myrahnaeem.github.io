@@ -273,6 +273,37 @@ I am a System Software Engineer with five years of experience, specializing in t
 </div>
 
 
+<div style="
+    padding: 20px;
+    border-left: 4px solid #0077b6;
+    background: #f4f8fb;
+    border-radius: 8px;
+    margin-bottom: 30px;
+">
+    <h2 style="
+        font-size: 22px;
+        font-weight: 700;
+        color: #00324e;
+        margin-bottom: 12px;
+        line-height: 1.3;
+    ">
+        <a href="/publications/preprocessing-2_5d/" style="text-decoration:none; color:#00324e;">
+            Preprocessing of 2.5D Facial Images from Stereo Camera
+        </a>
+    </h2>
+
+    <p style="font-size: 15px; color:#333; line-height: 1.5; text-align: justify;">
+        Developed a robust preprocessing pipeline for 2.5D facial depth maps generated from a stereo 
+        camera. The method includes median filtering, Laplacian smoothing, hole filling, cropping, and 
+        alignment to improve mesh quality, reduce noise, correct depth discontinuities, and prepare the 
+        face region for reliable 3D feature extraction and recognition.
+    </p>
+
+    <a href="https://myrahnaeem.github.io/files/Preprocessing_of_2.5D_facial_images_from_stereo_camera.pdf"
+       style="font-size: 15px; font-weight: bold; color:#0077b6;">
+        📄 Download Paper
+    </a>
+</div>
 
 
 
