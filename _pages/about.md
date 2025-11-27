@@ -234,12 +234,7 @@ I am a System Software Engineer with five years of experience, specializing in t
 
 <table style="width: 100%; border-collapse: collapse; border: 0; margin-top: 10px;">
   <tr>
-    <td style="width: 25%; text-align: center; border: none;">
-      <!-- Optional thumbnail image for the paper -->
-      <img src="/images/text-driven.png" alt="Text-Driven Texture Paper" width="160" height="300" style="margin-right: 10px;">
-    </td>
-
-    <td style="width: 75%; text-align: justify; border: none;">
+    <td style="width: 100%; text-align: justify; border: none;">
       <h3>
         <a href="/publications/text-driven">
           Text-Driven Generative Framework for Multimodal Visual and Haptic Texture Synthesis
@@ -258,6 +253,7 @@ I am a System Software Engineer with five years of experience, specializing in t
     </td>
   </tr>
 </table>
+
 
 
 <!-- You can also find the full list of my publications [<span style="color:blue">here</span>](https://mudassir-awan.github.io/publications/) -->

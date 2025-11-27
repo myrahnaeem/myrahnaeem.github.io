@@ -4,9 +4,13 @@ title: "Text-Driven Generative Framework for Multimodal Visual and Haptic Textur
 permalink: /publications/text-driven
 ---
 
-## Text-Driven Generative Framework for Multimodal Visual and Haptic Texture Synthesis
+<p style="text-align:center; margin-bottom: 20px;">
+  <img src="/images/text-driven.png" alt="Text-Driven Generative Framework Overview" style="max-width: 80%; height: auto; border-radius: 6px;">
+</p>
 
-**Authors:** Myrah Naeem, (add co-authors here if any)  
+<!-- ## Text-Driven Generative Framework for Multimodal Visual and Haptic Texture Synthesis -->
+
+**Authors:** Myrah Naeem, Mudassir Ibrahim Awan, Seokhee Jeon
 **Affiliation:** Kyung Hee University, Haptics and Virtual Reality Lab  
 
 ---
