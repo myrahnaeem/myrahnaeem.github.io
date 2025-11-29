@@ -24,8 +24,6 @@ My recent research focuses on generative models for visual and haptic textures, 
 
 <h2 class="header" style="margin-top: 30px;">Research &amp; Career Interests</h2>
 
-<h2 class="header" style="margin-top: 30px;">Research & Career Interests</h2>
-
 <ul style="list-style-type: disc; margin-left: 5px; font-size: 15px; line-height: 1.6;">
   <li>System and embedded software development (C/C++, Linux, multithreading, performance optimization)</li>
   <li>ADAS and camera-based perception pipelines (object detection, feature extraction, image pre-processing)</li>
