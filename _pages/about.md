@@ -74,7 +74,7 @@ My recent research focuses on generative models for visual and haptic textures, 
   }
 </style>
 
-<h2 class="header">Technical Skills</h2>
+<!-- <h2 class="header">Technical Skills</h2>
 
 <div class="skills-container">
   <span class="skill-pill">C</span>
@@ -92,7 +92,7 @@ My recent research focuses on generative models for visual and haptic textures, 
   <span class="skill-pill">Stable Diffusion</span>
   <span class="skill-pill">Signal Processing</span>
   <span class="skill-pill">Haptic Rendering</span>
-</div>
+</div> -->
 
 <!-- Academic Qualifications -->
 
