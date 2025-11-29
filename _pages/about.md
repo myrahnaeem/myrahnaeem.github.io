@@ -24,13 +24,19 @@ My recent research focuses on generative models for visual and haptic textures, 
 
 <h2 class="header" style="margin-top: 30px;">Research &amp; Career Interests</h2>
 
-<ul style="list-style-type: disc; margin-left: 20px; font-size: 15px; line-height: 1.6;">
-  <li>System and embedded software development (C/C++, Linux, real-time systems)</li>
-  <li>Camera-based perception: ADAS, object detection, stereo vision</li>
-  <li>Haptic texture modeling, multimodal interaction, and XR interfaces</li>
-  <li>Generative AI for visual and haptic texture synthesis (e.g., Stable Diffusion, text-to-haptic)</li>
-  <li>Signal processing and time-series analysis for tactile and sensory data</li>
+<h2 class="header" style="margin-top: 30px;">Research & Career Interests</h2>
+
+<ul style="list-style-type: disc; margin-left: 5px; font-size: 15px; line-height: 1.6;">
+  <li>System and embedded software development (C/C++, Linux, multithreading, performance optimization)</li>
+  <li>ADAS and camera-based perception pipelines (object detection, feature extraction, image pre-processing)</li>
+  <li>Embedded vision systems development on ARM- and GPU-based platforms (including Jetson Nano)</li>
+  <li>API development, migration, and integration for embedded vision and real-time applications</li>
+  <li>Camera-based perception: stereo vision, depth estimation, 2.5D/3D face analysis</li>
+  <li>Haptic texture modeling, multimodal interaction, and XR interface development</li>
+  <li>Generative AI for visual and haptic texture synthesis (text-to-image, text-to-haptic pipelines)</li>
+  <li>Signal processing and time-series analysis for tactile, vibration, and sensor data</li>
 </ul>
+
 
 <style>
   .left-indent {
