@@ -14,9 +14,9 @@ redirect_from:
 I am a System Software Engineer and early-career researcher with experience in camera-centric embedded systems, haptics, and AI-driven texture rendering. I have worked for five years as a system and embedded software developer, integrating software with hardware to build high-performance, real-time applications.
 </p>
 
-<p style="font-size: 16px; text-align: justify; line-height: 1.6; margin-bottom: 15px;">
+<!-- <p style="font-size: 16px; text-align: justify; line-height: 1.6; margin-bottom: 15px;">
 My recent research focuses on generative models for visual and haptic textures, text-to-haptic pipelines, and data-driven haptic rendering. I am open to roles as a <strong>System / Embedded Software Engineer</strong> as well as <strong>PhD / research positions</strong> in computer vision, haptics, XR, and generative AI for multimodal interaction.
-</p>
+</p> -->
 
 <p style="font-size: 16px; text-align: justify; line-height: 1.2; margin-top: 25px; margin-bottom: 15px;">
   <a href="http://myrahnaeem.github.io/files/Myrah_Resume.pdf">My Full CV</a>
