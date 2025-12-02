@@ -136,7 +136,7 @@ My recent research focuses on generative models for visual and haptic textures, 
   <h3 class="left-indent">June 2021 - March 2023</h3>
   <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Senior Software Developer, QuEST Global Korea</li>
 
-  <h3 class="left-indent">November 2023 - February 2025</h3>
+  <h3 class="left-indent">November 2023 - Present</h3>
   <li style="line-height: 1.2;text-indent: -40px;font-size: 16px;"> Researcher, Kyung Hee University International Campus</li>
 
 </ul>
